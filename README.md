@@ -1,6 +1,4 @@
-# Ricci-Information Geometry Constrained Traversal Framework (RIG-CTF)
-
-## Geometric path optimization on curved manifolds with information-theoretic navigation
+# Geometric path optimization on curved manifolds with information-theoretic navigation.
 
 RIG-CTF simulates multi-agent traversal on discrete Riemannian manifolds under geometric and information-theoretic constraints. Agents navigate energy landscapes guided by Ricci curvature resistance and Fisher information metrics, using variational optimal control with stochastic Langevin dynamics.
 
