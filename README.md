@@ -26,8 +26,8 @@ RIG-CTF simulates multi-agent traversal on discrete Riemannian manifolds under g
 ## Validation
 
 Built-in automated tests verify:
-- ✓ Probability distribution normalization
-- ✓ Metric tensor positive-definiteness
-- ✓ Fisher information non-negativity
-- ✓ Numerical stability
+- Probability distribution normalization
+- Metric tensor positive-definiteness
+- Fisher information non-negativity
+- Numerical stability
 
